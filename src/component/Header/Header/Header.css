@@ -1,0 +1,14 @@
+.header{
+    background-color: aqua;
+    height:150px
+}
+a{
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 30px;
+
+}
+nav{
+    position: relative;
+    text-align: center;
+}
