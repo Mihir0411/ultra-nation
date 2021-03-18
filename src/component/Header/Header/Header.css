@@ -1,14 +1,10 @@
-.header{
+.matha{
     background-color: aqua;
-    height:150px
+    width: auto;
+    height:100px
 }
 a{
     text-decoration: none;
     margin-left: 10px;
     font-size: 30px;
-
-}
-nav{
-    position: relative;
-    text-align: center;
 }

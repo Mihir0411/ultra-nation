@@ -13,10 +13,10 @@ const AboutCountry = (props) => {
     return (
         <div className="container">
                 <div className="about">
-                    <div>
+                    <div className="text-center">
                         <img src={flag} alt="" />
                     </div>
-                    <div className="info">
+                    <div className="text-center">
                         <h3>Nmae: {name}</h3>
                         <h4>Capital: {capital}</h4>
                         <br></br>
